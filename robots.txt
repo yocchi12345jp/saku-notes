@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yocchi12345jp.github.io/saku-notes/sitemap.xml
